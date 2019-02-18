@@ -1,0 +1,65 @@
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+c:\users\simon\documents\visual studio 2013\Projects\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+C:\Users\Hayden\Desktop\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+D:\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+D:\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+D:\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+D:\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+C:\Users\Simon\Dropbox\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+C:\Users\Simon\Dropbox\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+C:\Users\Simon\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.pdb
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csprojResolveAssemblyReference.cache
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.currencyconverter.resources
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment_2._2.Properties.Resources.resources
+C:\Users\old girls\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.csproj.GenerateResource.Cache
+C:\Users\SirFace\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\bin\Debug\Assignment 2.2.exe.config
+C:\Users\SirFace\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.exe
+C:\Users\SirFace\Dropbox\University Work\old uni\Uni Summer School 2014\158.212\Assignment 2.2\Assignment 2.2\obj\Debug\Assignment 2.2.pdb
