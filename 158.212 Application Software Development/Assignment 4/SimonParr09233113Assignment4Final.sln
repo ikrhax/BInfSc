@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment4Final", "WindowsFormsApplication1\Assignment4Final.csproj", "{486E7E07-E4E0-4C46-8972-3DBF3E2FC279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyFunctionsTest", "UnitTestProject1\KeyFunctionsTest.csproj", "{C9932EA4-5CB4-4E68-A9E1-937CFBD4CD2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486E7E07-E4E0-4C46-8972-3DBF3E2FC279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486E7E07-E4E0-4C46-8972-3DBF3E2FC279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486E7E07-E4E0-4C46-8972-3DBF3E2FC279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486E7E07-E4E0-4C46-8972-3DBF3E2FC279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9932EA4-5CB4-4E68-A9E1-937CFBD4CD2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9932EA4-5CB4-4E68-A9E1-937CFBD4CD2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9932EA4-5CB4-4E68-A9E1-937CFBD4CD2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9932EA4-5CB4-4E68-A9E1-937CFBD4CD2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
