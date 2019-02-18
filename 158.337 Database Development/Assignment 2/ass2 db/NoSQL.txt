@@ -1,0 +1,22 @@
+db.dragons.insert({name: "Bilbo Baggins", dob: new Date(1992,2,13,7,47), loves:["horse riding","surfing"],weight: 45, gender: "m", cash: 3000});
+
+db.dragons.insert({name: "Rosie-Posie", dob: new Date(1961, 0, 24, 13, 0), loves: ["horse riding", "chess"], weight: 63, gender: "f", cash: 2250});
+
+db.dragons.insert({name: "Bingo Deepdelver", dob: new Date(1963, 1, 9, 22, 10), loves: ["scrabble", "basketball"], weight: 72, gender: "m", cash: 9000});
+
+db.dragons.insert({name: "Samwise Deepdelver", dob: new Date(1990, 7, 18, 18, 44), loves: ["cricket"],weight: 69, gender: "m", cash: 8000});
+
+db.dragons.insert({name: "Dora Toadfoot", dob: new Date(1985, 6, 4, 2, 1), loves:["cricket", "horse riding", "trekking"], weight:60, gender:"f", cash:6000});
+
+db.dragons.insert({name:"Kennoy Dippy", dob: new Date(1997, 6, 1, 10, 42), loves: ["chess", "rugby"],weight: 69, gender: "m", cash: 5000});
+
+db.dragons.insert({name: "Rajaram Ghoda", dob: new Date(1985, 4, 3, 0, 57), loves: ["cricket", "boxing"],weight: 101, gender: "m", cash: 6500});
+
+db.dragons.insert({name: "Dolly Boffin", dob: new Date(1968, 9, 8, 14, 53), loves: ["cricket", "dancing"], weight: 52, gender: "f", cash: 6000});
+
+db.dragons.insert({name: "Ayna Shyna", dob: new Date(1958, 2, 7, 8, 30), loves: ["singing", "dancing"], weight: 73, gender: "f", cash: 5000});
+
+db.dragons.insert({name: "Aloo Kachaloo", dob: new Date(1970, 2, 7, 8, 30), loves: ["skiing", "dancing"], weight: 72, gender: "m", cash: 6000});
+
+db.dragons.insert({name: "Hip Hop", dob: new Date(1973, 2, 7, 8, 30), loves: ["car racing", "dancing", , "trekking"], weight: 82, gender: "m", cash: 7700});
+
