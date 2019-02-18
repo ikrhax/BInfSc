@@ -1,0 +1,68 @@
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph1.txt
+From A to B:6
+From A to C:5
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph2.txt
+From A to B:1
+From A to C:7
+From A to D:3
+From A to E:2
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph3.txt
+From A to B:1
+From A to C:2
+From A to D:3
+From A to E:4
+From A to F:5
+From A to G:6
+From A to H:7
+From A to I:8
+From A to J:9
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph4.txt
+From A to B:8
+From A to C:7
+From A to D:6
+From A to E:5
+From A to F:4
+From A to G:3
+From A to H:2
+From A to I:2
+From A to J:1
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph5.txt
+From A to B:1
+From A to C:4
+From A to D:3
+From A to E:4
+From A to F:3
+From A to G:1
+From A to H:2
+From A to I:3
+From A to J:3
+From A to K:3
+From A to L:4
+From A to N:4
+From A to M:4
+From A to O:2
+From A to P:3
+From A to Q:3
+From A to R:4
+From A to S:5
+From A to T:2
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>"Dijkstra's Algorithm.exe" graph6.txt
+From A to B:5
+From A to C:4
+From A to D:1
+From A to E:2
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 06\Assignme
+nt06_AdamPeryman_09079122\Release>

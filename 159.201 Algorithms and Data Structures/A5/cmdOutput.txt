@@ -1,0 +1,58 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\Adam>d:
+
+D:\>cd "Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Ass
+ignment05_AdamPeryman_09079122\Arithmetic Trees and RPN"
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN1.txt
+In-fix:
+(3+4)
+Post-fix:
+3 4 +
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN2.txt
+In-fix:
+((2+5)*3)
+Post-fix:
+2 5 + 3 *
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN3.txt
+In-fix:
+((7*(8-9))+4)
+Post-fix:
+7 8 9 - * 4 +
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN4.txt
+In-fix:
+((2/(3+(4*6)))+8)
+Post-fix:
+2 3 4 6 * + / 8 +
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN5.txt
+In-fix:
+(4+(5*3))
+Post-fix:
+4 5 3 * +
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>"Arithmetic Trees and RPN.exe
+" RPN6.txt
+In-fix:
+(((3+4)*(7+8))+5)
+Post-fix:
+3 4 + 7 8 + * 5 +
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 05\Assignme
+nt05_AdamPeryman_09079122\Arithmetic Trees and RPN>

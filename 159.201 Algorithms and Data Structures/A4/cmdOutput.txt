@@ -1,0 +1,50 @@
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers1.txt
+00000000000000000000000000
++
+00000000000000000000000001
+=
+00000000000000000000000001
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers2.txt
+99
++
+1
+=
+100
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers3.txt
+12345678901234567890
++
+9876543210987654321
+=
+22222222112222222211
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers4.txt
+99999999999999999999
++
+99999999999999999999
+=
+199999999999999999998
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers5.txt
+9999999999999999999999
++
+1
+=
+10000000000000000000000
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>Assignme
+nt04_AdamPeryman_09079122.exe samplenumbers6.txt
+100000000000000000000
++
+1
+=
+100000000000000000001
+
+D:\Uni\159.201 Algorithms and Data Structures\Assignments\Assignment 04>
