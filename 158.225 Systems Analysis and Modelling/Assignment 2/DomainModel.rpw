@@ -1,0 +1,25 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 2;
+		- value = GUID 81f513a3-d95b-45da-a47c-1e03ea1725e2; GUID 7db7f315-cf92-4668-90aa-c66bc0b8f137; 
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 0;
+	}
+	- _fullName = "C:\\Users\\Simon\\Desktop\\ArtSpace\\DomainModel";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

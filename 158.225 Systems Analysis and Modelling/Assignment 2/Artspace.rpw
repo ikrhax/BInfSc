@@ -1,0 +1,54 @@
+I-Logix-RPY-Archive version 8.5.2 Modeler * 1159120
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 2;
+		- value = GUID c6f516c9-9c22-4198-8feb-c70ce3329ce8; GUID fc23480c-ec15-4962-a07a-6dd9bba79e38; 
+	}
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -30;
+				- m_nLeft = 25;
+				- m_nTop = 25;
+				- m_nRight = 771;
+				- m_nBottom = 445;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IUCDiagram";
+				- _filename = "";
+				- _subsystem = "";
+				- _class = "";
+				- _name = "Main Use Cases";
+				- _id = GUID 0cfcbee0-225f-4847-9eee-b5b15809e200;
+			}
+			- _UpLeft = 178 79 ;
+			- _DownRight = 1108 660 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+		}
+	}
+	- _fullName = "C:\\Users\\Simon\\Desktop\\ArtSpace\\Artspace";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=1;
+		{ - favoritesItem
+			generation = 0;
+			name = Favorites;
+			idOrFolder = folder;
+		}
+	}
+
+}
+

@@ -1,0 +1,102 @@
+10, 08, 2015 (06:12:26): Could not find file DefaultComponent.cmp
+10, 08, 2015 (07:37:04): UR named: Sale, of type IClass, and ID: 366dacf0-c9ff-4a85-9577-7973f36c0908 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: saleId, of type IAttribute, and ID: 10b69a2e-c806-48b2-a275-89aa27507855 was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: startDate, of type IAttribute, and ID: 7869e745-3fb9-4042-92f6-747131e485bf was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: endDate, of type IAttribute, and ID: f1541762-ef12-479d-a913-fe99d39b4579 was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: attribute_3, of type IAttribute, and ID: 7c75c852-c9f4-429b-9a87-762a969f10ef was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: CompleteSale(), of type IPrimitiveOperation, and ID: f5d41618-e623-49ab-860d-f2d0d57827d1 was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: Listitem(), of type IPrimitiveOperation, and ID: 9fccc0de-b19a-4fa7-8742-9cca756f0b9f was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: WorkOfArt, of type IClass, and ID: 9f5f33d8-df38-41c2-aee8-3bbdc20420a8 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: fixedPrice, of type IAttribute, and ID: afe20185-8d7b-4362-a410-c2b645fd8ed9 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: artType, of type IAttribute, and ID: dd277047-9313-4e78-9451-bc84809a3668 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: artQuantity, of type IAttribute, and ID: ba23691c-2173-47d7-883c-697ce24d5af3 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: artId, of type IAttribute, and ID: f66e40ce-9b47-4938-8592-5851eacd5bd1 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: purchase(), of type IPrimitiveOperation, and ID: 8e9ac69e-8736-4bb1-94cd-f7f94eb88e3d was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: Artist1, of type IClass, and ID: 92af53bc-200f-435f-b88b-f8bcb012e466 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: artistId, of type IAttribute, and ID: 9ef1642f-bac3-4d60-a3bc-a62e480e1ee7 was created. Owned by the Artist1 Class.
+10, 08, 2015 (07:37:04): UR named: artistName, of type IAttribute, and ID: e4865364-6052-40f1-acdd-edff5fac348f was created. Owned by the Artist1 Class.
+10, 08, 2015 (07:37:04): UR named: emailAddress, of type IAttribute, and ID: d4dfad4c-ecbb-4343-b889-6835e70787c3 was created. Owned by the Artist1 Class.
+10, 08, 2015 (07:37:04): UR named: listart(), of type IPrimitiveOperation, and ID: 6cac5d26-85c8-4db7-9a77-fae7a07f1992 was created. Owned by the Artist1 Class.
+10, 08, 2015 (07:37:04): UR named: Buyer, of type IClass, and ID: dadc367f-8f99-4d4c-89fa-67e8c0d23969 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: buyerId, of type IAttribute, and ID: 99328457-254c-4162-9961-2b84eb371317 was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: buyerName, of type IAttribute, and ID: d2017af0-08e4-438b-9f4b-72eee5391a10 was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: buyerAddress, of type IAttribute, and ID: 3410c658-e26c-474c-843a-cc6b10c2ec4d was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: emailAddress, of type IAttribute, and ID: 0995fc42-a294-4201-a814-7dc4af8f60cf was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: buyart(), of type IPrimitiveOperation, and ID: 2e7574c3-e404-4962-add2-ec7fe1115d09 was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: Auction, of type IClass, and ID: 44680bc9-fb07-4ce4-a8d5-07152b20f771 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: auctionId, of type IAttribute, and ID: 3bae8576-18eb-4346-96e4-8b36e0544c35 was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: reservePrice, of type IAttribute, and ID: e70fc99c-0fb1-40eb-98af-b98d97ecabec was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: auctionclose(), of type IPrimitiveOperation, and ID: 8d0378d8-614b-40f6-b1b3-e654ecfcbad8 was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: Operation_3(), of type IPrimitiveOperation, and ID: 5ca9562e-fe69-4484-9fd1-509e2b18606d was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: StartPrice(), of type IPrimitiveOperation, and ID: 6e3d16d2-4efd-4dd1-8cc6-161822ed3708 was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: ConsiderSplit(), of type IReception, and ID: eb5d9433-2e52-4e9e-8ff8-e67ce91d450d was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: Withdraw(), of type IReception, and ID: 60393480-e25a-4e03-addf-a58133680a7c was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: WithdrawArtworkFromCatalog(), of type IReception, and ID: 90f42da3-c01a-43e5-aaf1-aaff255987ed was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: MaxSizeReached(), of type IReception, and ID: 3d532f52-7b23-4f92-b346-e22bf84eb4fb was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: AuctionDate(), of type IReception, and ID: 458eaf41-9dac-44dd-bcee-10fb164714eb was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: FinishTimeReached(), of type IReception, and ID: 525f1583-f396-4c91-b446-1c48c720ca4f was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: Cancelled(), of type IReception, and ID: 26a1940b-5922-47d5-b525-ac1f583aa13a was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: AuctionSplit(), of type IReception, and ID: 4e070f82-3c45-452e-9f9e-fb744c32aad4 was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: numberofartworksadded(), of type IReception, and ID: 413ebfba-ecec-4df0-9acc-c1a27a7434d9 was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: test(), of type IPrimitiveOperation, and ID: 99de4dae-d100-494c-9e27-292eedf63b3e was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: Dealer, of type IClass, and ID: 84734402-5145-4c7b-ac9a-95810645ba4c was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: dealerId, of type IAttribute, and ID: 49912fd3-988a-4a1a-8986-6f59e07f158e was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: dealerName, of type IAttribute, and ID: e1071e84-42e7-42a9-ba44-dda28098c03d was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: emailAddress, of type IAttribute, and ID: 009e287e-08be-430c-bf8d-8a28c88bf4b1 was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: buyart(), of type IPrimitiveOperation, and ID: 84d925da-abb4-44d9-b84d-d0bf4b33c319 was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: sellart(), of type IPrimitiveOperation, and ID: 192d2170-b115-41d0-b2f0-2b54165feb31 was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: Address, of type IClass, and ID: ca88a82a-f999-431a-8498-eba6ef41bcb5 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: number, of type IAttribute, and ID: b11d5020-ebb5-47ba-9ee7-251cc26a1c2d was created. Owned by the Address Class.
+10, 08, 2015 (07:37:04): UR named: street, of type IAttribute, and ID: d8f02883-7aad-45f1-ba4c-8d06362fb747 was created. Owned by the Address Class.
+10, 08, 2015 (07:37:04): UR named: suburb, of type IAttribute, and ID: b9dc1b57-2d6c-4282-83b5-582bf9731969 was created. Owned by the Address Class.
+10, 08, 2015 (07:37:04): UR named: city, of type IAttribute, and ID: cb94dd20-7426-4cc7-94ad-6ad671c12309 was created. Owned by the Address Class.
+10, 08, 2015 (07:37:04): UR named: country, of type IAttribute, and ID: 3a68f5a6-4b16-4498-ae7e-ac4b1a3f9b72 was created. Owned by the Address Class.
+10, 08, 2015 (07:37:04): UR named: itsSale, of type IAssociationEnd, and ID: b04c6319-de84-4fe3-81ad-99564ce39baa was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: itsAuction, of type IAssociationEnd, and ID: 742f8365-531a-48d4-8693-576c65b52778 was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: itsSale, of type IAssociationEnd, and ID: 17a1b861-9a51-4215-885e-e920ee4c25f0 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: itsWorkOfArt, of type IAssociationEnd, and ID: bbe4f3e5-05dc-4094-a214-8a653167f473 was created. Owned by the Sale Class.
+10, 08, 2015 (07:37:04): UR named: itsWorkOfArt, of type IAssociationEnd, and ID: 74837a17-33dd-4f19-880a-7ab8cbce951f was created. Owned by the Buyer Class.
+10, 08, 2015 (07:37:04): UR named: itsBuyer, of type IAssociationEnd, and ID: f229e44d-ba8c-4229-95ea-8fb7de509205 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: itsArtist1, of type IAssociationEnd, and ID: 38dd5c7e-c0cd-4413-a6a2-66e1d9b48164 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: itsWorkOfArt, of type IAssociationEnd, and ID: c02112de-fa66-4ebc-98f2-a52105707019 was created. Owned by the Artist1 Class.
+10, 08, 2015 (07:37:04): UR named: itsDealer, of type IAssociationEnd, and ID: 78db4999-f301-4eba-8993-27df1862c85b was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: itsWorkOfArt, of type IAssociationEnd, and ID: f3a68c53-78fa-4bb2-862f-6b690dfca2f1 was created. Owned by the Dealer Class.
+10, 08, 2015 (07:37:04): UR named: itsAuction, of type IAssociationEnd, and ID: 9673fbd5-974c-4040-bccb-31ac1d988eb0 was created. Owned by the WorkOfArt Class.
+10, 08, 2015 (07:37:04): UR named: itsWorkOfArt, of type IAssociationEnd, and ID: 4b58dc52-416a-4e5d-9e1b-426118dd2bbd was created. Owned by the Auction Class.
+10, 08, 2015 (07:37:04): UR named: General Member of the Public, of type IActor, and ID: 46b9950d-7445-4b23-ba7d-936b69a3d4cb was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Artist, of type IActor, and ID: fbb187e9-e367-4322-a9a5-2fd3adbb1e16 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Art Dealer, of type IActor, and ID: 843963bd-4652-4c9a-9c2a-4dab155cfb10 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Serious Art Collector, of type IActor, and ID: 423e2d0b-f30e-4b3f-a4b0-82f361335b96 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Provide Artwork, of type IUseCase, and ID: 661d59b9-5c2b-4eef-a26f-a6a8b109379c was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Registering Accounts, of type IUseCase, and ID: d6dea627-61e0-4456-b188-3ebb193b24d7 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Selling, of type IUseCase, and ID: 17844d5b-fb39-4819-ab97-b4eca127d352 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Search, of type IUseCase, and ID: a5f04fb8-dcef-4f2f-b2c6-4bad5987d23f was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: Buying, of type IUseCase, and ID: 35c172e1-341e-474e-9ac3-0143d243d423 was created. Owned by the Default Package.
+10, 08, 2015 (07:37:04): UR named: itsArtist, of type IAssociationEnd, and ID: 9fbf9c81-4394-479d-9667-7ced0c64b3d9 was created. Owned by the Registering Accounts UseCase.
+10, 08, 2015 (07:37:04): UR named: itsRegistering Accounts, of type IAssociationEnd, and ID: b8acf555-ec88-493b-a27c-6eced531cba2 was created. Owned by the Artist Actor.
+10, 08, 2015 (07:37:04): UR named: itsSerious Art Collector, of type IAssociationEnd, and ID: 348d800b-d83a-4b0f-9610-c6568c0b3055 was created. Owned by the Registering Accounts UseCase.
+10, 08, 2015 (07:37:04): UR named: itsRegistering Accounts, of type IAssociationEnd, and ID: 376fb090-0c2c-4ed6-aa08-9be7e7619920 was created. Owned by the Serious Art Collector Actor.
+10, 08, 2015 (07:37:04): UR named: itsGeneral Member of the Public, of type IAssociationEnd, and ID: c79ea2f9-10ce-4782-ad1b-423d9d9cf0cd was created. Owned by the Registering Accounts UseCase.
+10, 08, 2015 (07:37:04): UR named: itsRegistering Accounts, of type IAssociationEnd, and ID: ef56be9a-de68-4b4f-ae71-8fcf3a1e420e was created. Owned by the General Member of the Public Actor.
+10, 08, 2015 (07:37:04): UR named: itsArt Dealer, of type IAssociationEnd, and ID: df295816-f908-4e7b-8459-6e5efed65171 was created. Owned by the Registering Accounts UseCase.
+10, 08, 2015 (07:37:04): UR named: itsRegistering Accounts, of type IAssociationEnd, and ID: a6a99599-b989-4f66-991a-1229774f0334 was created. Owned by the Art Dealer Actor.
+10, 08, 2015 (07:37:04): UR named: itsArtist, of type IAssociationEnd, and ID: dafb60e5-07b8-4c66-b899-fbfcb9acce0d was created. Owned by the Provide Artwork UseCase.
+10, 08, 2015 (07:37:04): UR named: itsProvide Artwork, of type IAssociationEnd, and ID: 3047bd06-dd43-44a3-aa82-08f396e0046a was created. Owned by the Artist Actor.
+10, 08, 2015 (07:37:04): UR named: itsSerious Art Collector, of type IAssociationEnd, and ID: 7ba901ad-f622-4075-bfe6-6a3045b26635 was created. Owned by the Search UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSearch, of type IAssociationEnd, and ID: 05737097-be70-4040-99ca-2b1a50867ed8 was created. Owned by the Serious Art Collector Actor.
+10, 08, 2015 (07:37:04): UR named: itsGeneral Member of the Public, of type IAssociationEnd, and ID: a39ec6f5-5fd7-4da6-9b8a-09b78daa90fc was created. Owned by the Search UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSearch, of type IAssociationEnd, and ID: bcbb412f-5e88-4e98-ab1a-7ba0e1766d87 was created. Owned by the General Member of the Public Actor.
+10, 08, 2015 (07:37:04): UR named: itsArt Dealer, of type IAssociationEnd, and ID: 35edb54b-39ae-4ec8-a8df-7b682d1e8343 was created. Owned by the Selling UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSelling, of type IAssociationEnd, and ID: 16cb619f-9e11-4dea-a368-b48ec0a8cded was created. Owned by the Art Dealer Actor.
+10, 08, 2015 (07:37:04): UR named: itsGeneral Member of the Public, of type IAssociationEnd, and ID: 145790de-e94b-4973-aa46-d3a984aff4aa was created. Owned by the Buying UseCase.
+10, 08, 2015 (07:37:04): UR named: itsBuying, of type IAssociationEnd, and ID: 7577974c-88ba-4598-bc22-418bca3d72fa was created. Owned by the General Member of the Public Actor.
+10, 08, 2015 (07:37:04): UR named: itsSerious Art Collector, of type IAssociationEnd, and ID: 61355181-eb0f-4c37-b56c-a345bf19859b was created. Owned by the Buying UseCase.
+10, 08, 2015 (07:37:04): UR named: itsBuying, of type IAssociationEnd, and ID: 8eb1eff3-3819-4e85-8a27-d1a82f5cb0fa was created. Owned by the Serious Art Collector Actor.
+10, 08, 2015 (07:37:04): UR named: itsArtist, of type IAssociationEnd, and ID: 101d479a-cd7c-4473-b2d3-006260c80393 was created. Owned by the Search UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSearch, of type IAssociationEnd, and ID: 4b3979f6-3077-4791-b547-fe0f4605b6db was created. Owned by the Artist Actor.
+10, 08, 2015 (07:37:04): UR named: itsArt Dealer, of type IAssociationEnd, and ID: 86df4d51-f565-4ced-8342-b110eafd9463 was created. Owned by the Search UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSearch, of type IAssociationEnd, and ID: 3d256680-62a4-4f25-a78e-608d9c5f7b7b was created. Owned by the Art Dealer Actor.
+10, 08, 2015 (07:37:04): UR named: itsArtist, of type IAssociationEnd, and ID: 6551fb81-0825-4f2e-9768-f9072ecb9014 was created. Owned by the Selling UseCase.
+10, 08, 2015 (07:37:04): UR named: itsSelling, of type IAssociationEnd, and ID: d75c29bc-5f8f-4bf9-9981-4606da1e5a91 was created. Owned by the Artist Actor.
+10, 08, 2015 (07:37:04): UR named: itsArt Dealer, of type IAssociationEnd, and ID: 6a0e518e-e593-4ef4-bffb-0cdce71b5f0b was created. Owned by the Buying UseCase.
+10, 08, 2015 (07:37:04): UR named: itsBuying, of type IAssociationEnd, and ID: f7010ccf-d69c-4d85-8f91-8747ddbe4afa was created. Owned by the Art Dealer Actor.
